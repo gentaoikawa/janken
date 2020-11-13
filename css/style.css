@@ -1,0 +1,61 @@
+/* ここから下に記載していく */
+
+
+.shohai{
+text-align: center;
+ height: 30px;
+width: 300px;  
+margin: 10px auto 10px auto;
+font-family: ＭＳ ゴシック;
+
+}
+
+.janken{
+
+	width: 1000px;
+height: 300px;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+     margin-left: auto;
+  margin-right: auto;
+}
+.title{
+margin:30px 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+width: 800px;
+height: 400px;
+ margin-left: auto;
+  margin-right: auto;
+}
+.title img{
+	height: 80%;
+}
+.button1{
+display: flex;
+text-align: center;
+ margin-left: auto;
+  margin-right: auto;
+margin-top: 30px;
+ width: 120px;
+ height: 20px;
+  background-color: #d20010;
+  border: 2px solid #9f000c;
+
+
+  font-size: 0.3px;
+  padding: 2rem 2rem 2rem 2rem;
+  color: #fff;
+  border-radius: 100vh;
+  -webkit-box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
+
+  font-family: 'Font Awesome 5 Free';
+  font-size: 1.6rem;
+  line-height: 1;
+
+  content: '\f30b';
+}
